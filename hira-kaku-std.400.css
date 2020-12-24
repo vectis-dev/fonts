@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Hiragino Kaku Gothic Std';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/hira-kaku-std-w3.woff2) format('woff2');
+}
